@@ -1,2 +1,22 @@
-# Daymate-Releases
-Daymate Windows app — public binary releases
+# Daymate
+
+Windows용 일정·목표 관리 및 메이트 알림 앱의 **공개 배포 전용 저장소**입니다.
+
+## 다운로드
+
+[최신 릴리스 다운로드](https://github.com/ggoby626/Daymate-Releases/releases/latest)
+
+`Daymate-1.0.0-windows.zip`을 다운로드하고 압축을 모두 푼 뒤 `Daymate-1.0.0.exe`를 실행하세요. Windows 10/11 및 .NET Framework 4.8을 권장합니다.
+
+## 주요 기능
+
+- 일정과 일일·주간 목표, 자동 갱신 및 수행 기록
+- 메이트 이름·이미지·대사 수정
+- 물 마시기·스트레칭 알림과 음량 조절
+- 선택형 Windows 자동 시작 및 트레이 백그라운드 실행
+
+닫기 버튼은 창을 숨깁니다. 완전히 끝내려면 트레이 메뉴에서 **종료**를 선택하세요.
+
+개인 데이터는 PC의 `%LOCALAPPDATA%\Daymate-Distribution`에 저장됩니다. 배포 파일에 제작자의 개인 데이터는 들어 있지 않습니다. 이 저장소에는 앱 소스를 게시하지 않습니다.
+
+사용 안내와 타사 라이선스는 ZIP에 동봉되어 있습니다. 현재 1.0.0에는 앱 내 자동 업데이트 확인·설치 기능이 없습니다.
